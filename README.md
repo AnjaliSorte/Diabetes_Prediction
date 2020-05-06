@@ -1,0 +1,2 @@
+# Diabetes_Prediction
+This project involves prediction of diabetes in a person using Random Forest Classifier models in machine learning.It includes the data visualisation techniques to analyse the trend and patterns of different health parameters with chances of diabetes. The dataset used is Pima dataset from kaggle.Diabetes prediction with PIMA Indian Diabetes Data set achieves over 96% accuracy.The random forest method is flexible ,fast and simple ml algorithm which is a combination of tree predictors.
